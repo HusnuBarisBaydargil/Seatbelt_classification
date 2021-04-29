@@ -1,0 +1,7 @@
+[[14952    17]
+ [   18 15013]]
+
+ACCURACY = 99.88%
+
+(n_classes, n_classes)
+Confusion matrix whose i-th row and j-th column entry indicates the number of samples with true label being i-th class and predicted label being j-th class.
